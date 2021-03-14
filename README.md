@@ -1,0 +1,2 @@
+# CryptotabBoost-
+Boost For Cryptotab
